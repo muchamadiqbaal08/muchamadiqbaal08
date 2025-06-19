@@ -2,8 +2,7 @@
 
 🎯 I'm a passionate mobile developer  
 💻 I build apps using **hybrid** or **native** programming language with **MVVM Architecture**  
-📦 I love building clean and maintainable projects with **Hive**, **Room**, and **BLoC**  
-🌱 Currently exploring backend stuff with **Node.js & Firebase**
+📦 I love building clean and maintainable projects
 
 ---
 
