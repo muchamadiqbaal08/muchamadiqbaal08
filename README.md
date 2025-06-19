@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Muchamad Iqbaal
 
-<!--
-**muchamadiqbaal08/muchamadiqbaal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a passionate mobile developer  
+💻 I build apps using **Flutter**, **Kotlin**, **Cordova**, **Java** and **MVVM Architecture**  
+📦 I love building clean and maintainable projects with **Hive**, **Room**, and **BLoC**  
+🌱 Currently exploring backend stuff with **Node.js & Firebase**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- 🧠 Architecture: MVVM + Clean Architecture
+- 📱 Flutter | Kotlin Jetpack Compose
+- 💾 Hive | Room | SQLite
+- ⚙️ BLoC | Dagger-Hilt | Provider
+- 📊 Charts | Local Notifications | Responsive UI
+
+---
+
+### 📬 Contact Me
+
+📧 iqbaal.yourmail@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/yourname)  
+📦 [GitHub](https://github.com/MuchamadIqbaal)
+
+---
+
+### 📌 Pinned Projects
+
+> You can pin repositories to appear on your profile! Go to your GitHub profile > "Customize your pins".
+
