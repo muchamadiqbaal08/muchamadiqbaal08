@@ -19,7 +19,7 @@
 ### 📬 Contact Me
 
 📧 iqbaalmuchamad31@gmail.com  
-🌐 [LinkedIn]([https://linkedin.com/in/muchamadiqbaal08])  
+🌐 [LinkedIn](https://linkedin.com/in/muchamadiqbaal08)  
 📦 [GitHub](https://github.com/muchamadiqbaal08)
 
 ---
